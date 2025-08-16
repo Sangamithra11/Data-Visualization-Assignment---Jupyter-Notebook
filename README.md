@@ -11,7 +11,7 @@ The goal is to apply Python-based visualization techniques to uncover patterns, 
 
 ## Key Features
 
-Indian Foods Dataset
+#### Indian Foods Dataset:
 
 Analysis of dishes by cuisine and region.
 
@@ -19,7 +19,7 @@ Exploration of cooking time and complexity.
 
 Ingredient-based insights and trends.
 
-Billionaires Dataset
+#### Billionaires Dataset:
 
 Industry and country-wise billionaire distribution.
 
